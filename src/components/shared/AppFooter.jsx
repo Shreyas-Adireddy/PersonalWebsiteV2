@@ -1,37 +1,37 @@
 import {
 	FiGithub,
-	FiTwitter,
+	FiYoutube,
 	FiLinkedin,
 	FiGlobe,
-	FiYoutube,
+	FiTerminal,
 } from 'react-icons/fi';
 import AppFooterCopyright from './AppFooterCopyright';
 
 const socialLinks = [
 	{
 		id: 1,
-		icon: <FiGlobe />,
-		url: 'https://www.stoman.me/',
+		icon: <FiTerminal />,
+		url: 'https://victorious-grass-090547810.3.azurestaticapps.net/',
 	},
 	{
 		id: 2,
 		icon: <FiGithub />,
-		url: 'https://github.com/realstoman',
+		url: 'https://github.com/Shreyas-Adireddy',
 	},
-	{
-		id: 3,
-		icon: <FiTwitter />,
-		url: 'https://twitter.com/realstoman',
-	},
+	// {
+	// 	id: 3,
+	// 	icon: <FiTwitter />,
+	// 	url: 'https://twitter.com/realstoman',
+	// },
 	{
 		id: 4,
 		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/realstoman',
+		url: 'www.linkedin.com/in/shreyas-adireddy-a12a9724b',
 	},
 	{
 		id: 5,
 		icon: <FiYoutube />,
-		url: 'https://www.youtube.com/c/realstoman',
+		url: 'https://youtube.com/@shreyasadireddy87',
 	},
 ];
 

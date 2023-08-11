@@ -1,4 +1,3 @@
-import ProjectGallery from '../components/projects/ProjectGallery';
 import ProjectHeader from '../components/projects/ProjectHeader';
 import ProjectInfo from '../components/projects/ProjectInfo';
 import ProjectRelatedProjects from '../components/projects/ProjectRelatedProjects';
@@ -19,7 +18,6 @@ const ProjectSingle = () => {
 		>
 			<SingleProjectProvider>
 				<ProjectHeader />
-				<ProjectGallery />
 				<ProjectInfo />
 				<ProjectRelatedProjects />
 			</SingleProjectProvider>

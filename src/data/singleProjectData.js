@@ -1,9 +1,9 @@
 // Import images
-import Image1 from '../images/ui-project-1.jpg';
-import Image2 from '../images/web-project-2.jpg';
-import Image3 from '../images/mobile-project-2.jpg';
-import Image4 from '../images/mobile-project-1.jpg';
-import Image5 from '../images/web-project-1.jpg';
+import Image1 from '../images/ML.png';
+import Image2 from '../images/minesweeper.png';
+import Image3 from '../images/PersonalWeb.png';
+import Image4 from '../images/bnicer.png';
+import Image5 from '../images/sudoku.jpg';
 import Image6 from '../images/ui-project-2.jpg';
 // Import icons
 import {
@@ -16,29 +16,29 @@ import {
 
 export const singleProjectData = {
 	ProjectHeader: {
-		title: 'Project Management UI',
-		publishDate: 'Jul 26, 2021',
-		tags: 'UI / Frontend',
+		title: 'All Projects',
+		publishDate: 'Jul 26, 2023',
+		tags: 'Code',
 	},
 	ProjectImages: [
 		{
 			id: 1,
-			title: 'Kabul Project Management UI',
+			title: 'Graph',
 			img: Image1,
 		},
-		{
-			id: 2,
-			title: 'Kabul Project Management UI',
-			img: Image2,
-		},
-		{
-			id: 3,
-			title: 'Kabul Project Management UI',
-			img: Image3,
-		},
+		// {
+		// 	id: 2,
+		// 	title: 'Kabul Project Management UI',
+		// 	img: Image2,
+		// },
+		// {
+		// 	id: 3,
+		// 	title: 'Kabul Project Management UI',
+		// 	img: Image3,
+		// },
 	],
 	ProjectInfo: {
-		ClientHeading: 'About Client',
+		ClientHeading: 'Machine Learning from Scratch',
 		CompanyInfo: [
 			{
 				id: 1,
@@ -68,12 +68,11 @@ export const singleProjectData = {
 			{
 				title: 'Tools & Technologies',
 				techs: [
-					'HTML',
-					'CSS',
-					'JavaScript',
-					'Vue.js',
-					'TailwindCSS',
-					'AdobeXD',
+					'NumPy ',
+					'Math ',
+					'Python ',
+					'Sci-Kit Learn ',
+					'Matplotlib ',
 				],
 			},
 		],
@@ -100,63 +99,63 @@ export const singleProjectData = {
 					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
 			},
 		],
-		SocialSharingHeading: 'Share This',
-		SocialSharing: [
-			{
-				id: 1,
-				name: 'Twitter',
-				icon: <FiTwitter />,
-				url: 'https://twitter.com/realstoman',
-			},
-			{
-				id: 2,
-				name: 'Instagram',
-				icon: <FiInstagram />,
-				url: 'https://instagram.com/realstoman',
-			},
-			{
-				id: 3,
-				name: 'Facebook',
-				icon: <FiFacebook />,
-				url: 'https://facebook.com/',
-			},
-			{
-				id: 4,
-				name: 'LinkedIn',
-				icon: <FiLinkedin />,
-				url: 'https://linkedin.com/',
-			},
-			{
-				id: 5,
-				name: 'Youtube',
-				icon: <FiYoutube />,
-				url: 'https://www.youtube.com/c/StomanStudio',
-			},
-		],
+		//SocialSharingHeading: 'Share This',
+		// SocialSharing: [
+		// 	{
+		// 		id: 1,
+		// 		name: 'Twitter',
+		// 		icon: <FiTwitter />,
+		// 		url: 'https://twitter.com/realstoman',
+		// 	},
+		// 	{
+		// 		id: 2,
+		// 		name: 'Instagram',
+		// 		icon: <FiInstagram />,
+		// 		url: 'https://instagram.com/realstoman',
+		// 	},
+		// 	{
+		// 		id: 3,
+		// 		name: 'Facebook',
+		// 		icon: <FiFacebook />,
+		// 		url: 'https://facebook.com/',
+		// 	},
+		// 	{
+		// 		id: 4,
+		// 		name: 'LinkedIn',
+		// 		icon: <FiLinkedin />,
+		// 		url: 'https://linkedin.com/',
+		// 	},
+		// 	{
+		// 		id: 5,
+		// 		name: 'Youtube',
+		// 		icon: <FiYoutube />,
+		// 		url: 'https://www.youtube.com/c/StomanStudio',
+		// 	},
+		// ],
 	},
-	RelatedProject: {
-		title: 'Related Projects',
-		Projects: [
-			{
-				id: 1,
-				title: 'Mobile UI',
-				img: Image4,
-			},
-			{
-				id: 2,
-				title: 'Web Application',
-				img: Image5,
-			},
-			{
-				id: 3,
-				title: 'UI Design',
-				img: Image6,
-			},
-			{
-				id: 4,
-				title: 'Kabul Mobile App UI',
-				img: Image3,
-			},
-		],
-	},
+	// RelatedProject: {
+	// 	title: 'Related Projects',
+	// 	Projects: [
+	// 		{
+	// 			id: 1,
+	// 			title: 'Mobile UI',
+	// 			img: Image4,
+	// 		},
+	// 		{
+	// 			id: 2,
+	// 			title: 'Web Application',
+	// 			img: Image5,
+	// 		},
+	// 		{
+	// 			id: 3,
+	// 			title: 'UI Design',
+	// 			img: Image6,
+	// 		},
+	// 		{
+	// 			id: 4,
+	// 			title: 'Kabul Mobile App UI',
+	// 			img: Image3,
+	// 		},
+	// 	],
+	// },
 };

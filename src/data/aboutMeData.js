@@ -1,10 +1,16 @@
 export const aboutMeData = [
 	{
 		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+		bio: "Welcome to my personal website! I'm Shreyas and I'm fueled by an unyielding passion for technology and innovation.\
+		 As a computer engineering student, I'm on a journey of constant exploration, diving deep into the realms of software development \
+		 and electrical engineering. With a strong foundation in programming languages like Python and C/C++, I enjoy learning new things \
+		  and uncovering solutions to new problems. My insatiable curiosity for creating drives me to embrace new challenges \
+		every day! ",
 	},
 	{
 		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+		bio: "Collaboration is at the core of my approach, and I thrive in dynamic team environments where diverse ideas converge. I love quantiative analysis \
+		and being involved with engineering related projects where me and my coworkers can contribute something to society. I want to make an impact on people. \
+		",
 	},
 ];
