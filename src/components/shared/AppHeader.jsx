@@ -6,7 +6,6 @@ import HireMeModal from '../HireMeModal';
 import logoDark from '../../images/shreyas-logo-dark.png';
 import logoLight from '../../images/shreyas-logo.png';
 import { motion } from 'framer-motion';
-import Button from '../reusable/Button';
 
 const AppHeader = () => {
 	const [showMenu, setShowMenu] = useState(false);

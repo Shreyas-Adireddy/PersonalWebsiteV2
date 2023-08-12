@@ -337,8 +337,7 @@ const ProjectInfo = () => {
 						{singleProjectData.ProjectInfo.ObjectivesHeading}
 					</p>
 					<p className="font-general-regular text-primary-dark dark:text-ternary-light">
-						To demonstrate my front-end skills and display my projets 
-					</p>
+To make a sudoku solver where I can input an image and get the solution					</p>
 				</div>
 
 				{/* Single project technologies */}
@@ -347,7 +346,7 @@ const ProjectInfo = () => {
 						{singleProjectData.ProjectInfo.Technologies[0].title}
 					</p>
 					<p className="font-general-regular text-primary-dark dark:text-ternary-light">
-					React, Tailwind CSS, HTML, JS, JSX, Azure
+					Python, OpenComputerVision, NumPy
 					</p>
 				</div>
 
@@ -359,8 +358,7 @@ const ProjectInfo = () => {
 					{singleProjectData.ProjectInfo.ProjectDetailsHeading}
 				</p>
 				<p className="font-general-regular mb-5 text-lg text-ternary-dark dark:text-ternary-light">
-				My personal resume website serves as a dynamic platform designed to showcase my professional journey, skills, and achievements. Through this website, I aim to provide visitors with a comprehensive view of my expertise, work experience, and projects. It's a space where I can present my unique strengths and accomplishments in an engaging and visually appealing manner. By curating this online portfolio, I am able to establish a strong online presence, connect with potential employers, clients, and collaborators, and leave a lasting impression that highlights my capabilities and dedication. Whether you're looking to explore my background or collaborate on exciting opportunities, my personal resume website offers a glimpse into my professional world.
-				</p>
+				Developed a Sudoku solver utilizing OpenCV and NumPy, capable of solving Sudoku puzzles from an input image of the game board. Implemented computer vision techniques using OpenCV to extract the Sudoku grid from the image and perform image processing tasks. Leveraged the power of NumPy to implement some basic image processing and used pretrained model to recognize digits. Successfully designed and implemented a system that accurately analyzes and solves Sudoku puzzles, providing the user with the solved version.				</p>
 			</div>
 		</div>
 		</div>
