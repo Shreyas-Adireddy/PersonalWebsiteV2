@@ -1,24 +1,14 @@
 // Import images
 import Image1 from '../images/ML.png';
-import Image2 from '../images/minesweeper.png';
-import Image3 from '../images/PersonalWeb.png';
-import Image4 from '../images/bnicer.png';
-import Image5 from '../images/sudoku.jpg';
-import Image6 from '../images/ui-project-2.jpg';
+
 // Import icons
-import {
-	FiFacebook,
-	FiInstagram,
-	FiLinkedin,
-	FiTwitter,
-	FiYoutube,
-} from 'react-icons/fi';
+
 
 export const singleProjectData = {
 	ProjectHeader: {
 		title: 'All Projects',
 		publishDate: 'Jul 26, 2023',
-		tags: 'Code',
+		tags: 'Descriptions',
 	},
 	ProjectImages: [
 		{
@@ -81,23 +71,9 @@ export const singleProjectData = {
 			{
 				id: 1,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+				"In this project, I am learning and implementing renowned machine learning models from scratch to gain a comprehensive understanding of their underlying mathematics. Using Numpy, a Python library known for efficient matrix operations. I am developing models such as K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Trees, Linear Regression, and Logistic Regression. Through this project, I have developed a strong ability to translate mathematical concepts into working code, while also gaining valuable experience in working with real-world datasets. By actively engaging with the mathematics behind these models, I have enhanced my problem-solving skills and deepened my understanding of how various machine learning algorithms function."
 			},
-			{
-				id: 2,
-				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-			},
-			{
-				id: 3,
-				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-			},
-			{
-				id: 4,
-				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-			},
+			
 		],
 		//SocialSharingHeading: 'Share This',
 		// SocialSharing: [

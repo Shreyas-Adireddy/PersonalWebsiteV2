@@ -2,7 +2,7 @@ import {
 	FiGithub,
 	FiYoutube,
 	FiLinkedin,
-	FiGlobe,
+	FiAtSign,
 	FiTerminal,
 } from 'react-icons/fi';
 import AppFooterCopyright from './AppFooterCopyright';
@@ -11,18 +11,18 @@ const socialLinks = [
 	{
 		id: 1,
 		icon: <FiTerminal />,
-		url: 'https://victorious-grass-090547810.3.azurestaticapps.net/',
+		url: 'https://devpost.com/software/bnice',
 	},
 	{
 		id: 2,
 		icon: <FiGithub />,
 		url: 'https://github.com/Shreyas-Adireddy',
 	},
-	// {
-	// 	id: 3,
-	// 	icon: <FiTwitter />,
-	// 	url: 'https://twitter.com/realstoman',
-	// },
+	{
+		id: 3,
+		icon: <FiAtSign />,
+		url: 'mailto:shreyasadireddy@gmail.com',
+	},
 	{
 		id: 4,
 		icon: <FiLinkedin />,
