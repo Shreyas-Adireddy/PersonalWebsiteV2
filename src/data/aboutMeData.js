@@ -11,6 +11,7 @@ export const aboutMeData = [
 		id: 2,
 		bio: "Collaboration is at the core of my approach, and I thrive in dynamic team environments where diverse ideas converge. I love quantiative analysis \
 		and being involved with engineering related projects where me and my coworkers can contribute something to society. I want to make an impact on people. \
+		My goal is to make a meaningful difference in people's lives. Whether through more efficient processes, user-friendly interfaces, or innovative technologies, I'm driven by the desire to leave a positive imprint on society. I believe that by leveraging technology and innovation, we have the power to shape a brighter future for all.\
 		",
 	},
 ];
